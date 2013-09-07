@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative 'pace2speed.rb'
+
+puts pace2speed(ARGV)
